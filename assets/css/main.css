@@ -437,8 +437,8 @@ footer .footer-custom-content {
 }
 .post-preview:hover{
 
-  border:1px solid grey;
-  border-radius:4px;
+/*   border:1px solid grey;
+  border-radius:4px; */
   
 }
 @media (min-width: 768px) {
