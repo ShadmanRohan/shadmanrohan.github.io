@@ -435,7 +435,12 @@ footer .footer-custom-content {
   border-bottom: 1px solid #eee;
   padding:40px;
 }
+post-preview:hover{
 
+  border:1px solid grey;
+  border-radius:4px;
+  
+}
 @media (min-width: 768px) {
   .post-preview {
     
@@ -456,8 +461,7 @@ footer .footer-custom-content {
 .post-preview a:hover {
   text-decoration: none;
   color: {{ site.hover-col | default: "#0085A1" }};
-  border:1px solid grey;
-  border-radius:4px;
+
 }
 
 .post-preview .post-title {
