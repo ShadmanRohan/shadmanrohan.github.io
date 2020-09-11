@@ -522,6 +522,7 @@ footer .footer-custom-content {
   text-decoration: none;
   padding: 0 0.3125rem;
   background-color: #EEE;
+  border-radius:2px;
 }
 
 .blog-tags a:hover {
