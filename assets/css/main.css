@@ -473,6 +473,12 @@ footer .footer-custom-content {
   font-weight: 300;
   margin-bottom: 0.625rem;
 }
+/*  */
+.post-heading h1{
+padding-top:20px;
+}
+
+/*  */
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
