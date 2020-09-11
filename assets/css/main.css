@@ -521,11 +521,10 @@ footer .footer-custom-content {
   text-decoration: none;
   padding: 0 0.3125rem;
   background-color: #EEE;
-  border-radius:2px;
+  border-radius:3px;
 }
 
 .blog-tags a:hover {
-  border-radius: 2px;
   color: {{ site.hover-col | default: "#0085A1" }};
   background-color: #c8dbfa;
 }
