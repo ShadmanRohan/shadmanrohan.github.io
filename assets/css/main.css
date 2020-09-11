@@ -431,7 +431,7 @@ footer .footer-custom-content {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 1.25rem 0;
+/*   padding: 1.25rem 0; */
   border-bottom: 1px solid #eee;
   padding:40px;
 }
