@@ -12,7 +12,7 @@ author: Shadman Rohan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
+  Home: "https://shadmanrohan.github.io/"
   About:
     - About Me: "aboutme"
     - Resume:
