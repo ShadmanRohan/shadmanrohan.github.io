@@ -5,11 +5,11 @@
 .container-lg{text-align:center}
 
 a{
- text-decoration: none
+ text-decoration: none;
  color: black 
 }
 a:link {
-  text-decoration: none
+  text-decoration: none;
   color: black 
 }
 
