@@ -16,7 +16,7 @@ navbar-links:
   About:
     - About Me: "aboutme"
     - Resume:
-  Projects: "custom"
+  Projects: "projects"
   Resources:
     - Tags: "tags"
     - Notes: ""
