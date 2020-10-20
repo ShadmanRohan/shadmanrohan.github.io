@@ -8,7 +8,7 @@ a{
  text-decoration: none;
  color: black 
 }
-a:link, :hover {
+a:link, a:hover {
   text-decoration: none;
   color: black 
 }
