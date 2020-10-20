@@ -9,7 +9,11 @@ a{
  color: black 
 }
 
-a:link, a:hover {
+a:link {
+  text-decoration: none;
+  color: black 
+}
+a:hover {
   text-decoration: none;
   color: black 
 }
