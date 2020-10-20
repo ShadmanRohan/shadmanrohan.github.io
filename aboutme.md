@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: CS undergrad(pending thesis) | Former AOC Gamer
+subtitle: CS Undergrad(pending thesis) | Former AOC Gamer
 ---
 
 I am currently pursuing undergrad in Computer Science and Engineering at North South University. I have some knowledge on Software Development and Machine Learning. Call me Rohan. Preferred pronoun is 'he'.
@@ -16,4 +16,4 @@ I would like work on projects that has potential for big impact. I am an ideal f
 
 ### Hobbies
 
-I like gaming, watching sit-coms, movies and cartoons. I also enjoy teaching and learning. 
+I like gaming, watching sit-coms, movies and cartoons. I also enjoy teaching and learning new things. 
