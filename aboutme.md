@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: CS undergrad(pending thesis) | Former AOC Gamer
 ---
 
@@ -8,7 +8,7 @@ I am currently pursuing undergrad in Computer Science and Engineering at North S
 
 ### Academic Interests
 
-Currently I am looking into applications of Deep Learning in Computer Vision and Natural Language Processing.
+Currently I am looking into applications of Deep Learning in Computer Vision and Natural Language Processing. I have primarily worked on sequence-to-sequence conversion and sequence tagging problems.
 
 ### Professional Interests
 
