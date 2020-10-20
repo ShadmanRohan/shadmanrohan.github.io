@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: CS undergrad(pending thesis) | Former AOC Gamer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am currently pursuing undergrad in Computer Science and Engineering at North South University. Call me Rohan.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Academic Interests
 
-What else do you need?
+Currently I am looking into applications of Deep Learning in Computer Vision and Natural Language Processing.
 
-### my history
+### Professional Interests
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I would like work on projects that has potential for big impact. I am an ideal fit to work on data driven products.
+
+### Hobbies
+
+I like gaming, watching sit-coms, movies and cartoons. I also enjoy teaching. 
