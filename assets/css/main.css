@@ -541,6 +541,7 @@ padding-top:20px;
 .blog-tags a:hover {
   color: {{ site.hover-col | default: "#0085A1" }};
   background-color: #c8dbfa;
+  border:1px solid black;
 }
 
 .post-preview .blog-tags {
