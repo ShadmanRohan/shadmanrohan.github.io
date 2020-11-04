@@ -22,4 +22,11 @@ $$
 ### Handling Unknown Words
 * Assume closed Vocabulary
 * Interpolate with an unknown words distribution
-* Add an &lt;unk&gt; word
+* Add an &lt;unk&gt; token
+
+### Learning Model Parameters
+* Decaying learning rate is commonly used.
+* Use a held out validation set.
+* Early stopping is used to prevent the model from overfitting too much on the training data.
+* Traning data should be shuffled. If there are only sports articles in the last few batches then it may bias the model towards that category.
+* 
