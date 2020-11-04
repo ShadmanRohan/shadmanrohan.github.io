@@ -19,3 +19,7 @@ $$
 P(y | x)=P\left(y_{1} | x\right) P\left(y_{2} | y_{1}, x\right) P\left(y_{3} | y_{1}, y_{2}, x\right) \ldots P\left(y_{T} | y_{1}, \ldots, y_{T-1}, x\right)
 $$
 
+### Handling Unknown Words
+* Assume closed Vocabulary
+* Interpolate with an unknown words distribution
+* Add an <unk> word
