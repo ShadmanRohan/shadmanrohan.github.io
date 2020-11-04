@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Approaches to Machine Translation 
-subtitle: High level overview of techniques for machine translation
+title: Neural approaches to Translation 
+subtitle: An overview of important concepts for neural machine translation
 tags: [nlp, nmt]
 ---
 
-Neural Machine translation directly calculates
-... a given wire happens to be carrying "$$\lvert 0\rangle$$."
-By that we mean that it's carrying the linear combination
+## Background
+Its a sequence to sequence problem.
+Rule Based -> Statistical -> Neural
 
+The latest neural network based approaches mainly involves variants of the transformer or the recurrent models. While the recurrent model is more robust, the transformer based approach produces better results by consuming more data in a paralellized manner. I will be mostly covering the recurrent models for machine translation here.   
 
 Conditional language modelling is currently the most popular machine translation technique. It involves calculating the probability for each term in the sequence conditioned on the input sentence and previous outputs.
 
