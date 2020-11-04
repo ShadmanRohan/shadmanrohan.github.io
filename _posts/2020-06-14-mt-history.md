@@ -22,4 +22,4 @@ $$
 ### Handling Unknown Words
 * Assume closed Vocabulary
 * Interpolate with an unknown words distribution
-* Add an &lt; unk &gt; word
+* Add an &lt;unk&gt; word
