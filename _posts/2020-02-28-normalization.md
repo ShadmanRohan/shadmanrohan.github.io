@@ -5,7 +5,7 @@ subtitle: Only the techniques I have encountered... there are many more!
 tags: [DeepLearning]
 comments: true
 ---
-These are basically a bunch of techniques that helps the model converge faster or more efficiently.
+These are basically a bunch of techniques that helps the model converge faster.
 ### Batch Normalization
 > <em>paper: <https://arxiv.org/pdf/1502.03167.pdf%27></em>
 
