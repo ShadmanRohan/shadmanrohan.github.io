@@ -2,6 +2,7 @@
 layout: post
 title: Unsupervised Machine Translation Using Monolingual Corpora Only!
 subtitle: Just some random notes from the paper
+thumbnail-img: https://yashuseth.files.wordpress.com/2019/03/fig3.png
 tags: [PaperReview]
 ---
 
@@ -22,4 +23,5 @@ The encoder acts as the generator while the discriminator tries to identify the 
 The idea behind the algorithm is that as long as the initial model retains at least some information of the input sentence, the encoder will map such translation to vectors in the latent space that also correspond to a cleaner version of the input because the encoder is trained to denoise. At the same time, the decoder is trained to predict noiseless outputs, given noisy features. Putting these two things together will produce less noisy translations, which will enable better back-translations at the next iteration, and so on so forth.
 
 > paper <https://arxiv.org/abs/1711.00043>  
+
 > useful link <https://yashuseth.blog/2019/03/03/how-can-unsupervised-neural-machine-translation-work/#:~:text=Unsupervised%20Machine%20Translation%20requires%20only,MT%20systems%20makes%20intuitive%20sense.>
