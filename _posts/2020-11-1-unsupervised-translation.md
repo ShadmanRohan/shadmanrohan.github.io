@@ -6,7 +6,7 @@ tags: [PaperReview]
 ---
 
 ### Paper Review!
-> paper <https://arxiv.org/abs/1711.00043>
+> paper <https://arxiv.org/abs/1711.00043> </br>
 > useful link <https://yashuseth.blog/2019/03/03/how-can-unsupervised-neural-machine-translation-work/#:~:text=Unsupervised%20Machine%20Translation%20requires%20only,MT%20systems%20makes%20intuitive%20sense.>
 
 My actual journey into deeplearning began with this paper. Although I could not reproduce it but I learnt many important techniques from this gem.
