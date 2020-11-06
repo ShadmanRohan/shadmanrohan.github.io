@@ -6,16 +6,16 @@ tags: [PaperReview]
 ---
 
 ### Paper Review!
-paper [https://arxiv.org/abs/1711.00043]
-useful link [https://yashuseth.blog/2019/03/03/how-can-unsupervised-neural-machine-translation-work/#:~:text=Unsupervised%20Machine%20Translation%20requires%20only,MT%20systems%20makes%20intuitive%20sense.]
+> paper <https://arxiv.org/abs/1711.00043>
+> useful link <https://yashuseth.blog/2019/03/03/how-can-unsupervised-neural-machine-translation-work/#:~:text=Unsupervised%20Machine%20Translation%20requires%20only,MT%20systems%20makes%20intuitive%20sense.>
 
 My actual journey into deeplearning began with this paper. Although I could not reproduce it but I learnt many important techniques from this gem.
-
 
 ### BackTranslation
 This was the most interesting. The prediction from the model on the target side was used as source sentence to predict the original sentence. I found this super interesting!
 
-### Alignment of Monolingual word embedding space [https://arxiv.org/abs/1710.04087]
+### Alignment of Monolingual word embedding space 
+> [https://arxiv.org/abs/1710.04087]
 See the FastText Library for more
 
 ### Alignment of Sentence Meaning space
