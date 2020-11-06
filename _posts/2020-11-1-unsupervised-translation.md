@@ -2,9 +2,7 @@
 layout: post
 title: Unsupervised Machine Translation Using Monolingual Corpora Only!
 subtitle: Some random notes from the paper
-cover-img: ""
 thumbnail-img: /assets/img/monocorp.png
-share-img: ""
 tags: [PaperReview]
 ---
 
