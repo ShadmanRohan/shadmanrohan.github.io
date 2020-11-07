@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forming the Loss Function
+title: Some fundamentals behind forming the Loss Function
 subtitle: MSE, MLE, Cross-Entropy
 tags: [DeepLearning]
 ---
