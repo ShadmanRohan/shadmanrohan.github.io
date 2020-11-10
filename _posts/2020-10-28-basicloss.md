@@ -10,7 +10,8 @@ tags: [DeepLearning]
 
 ## When to use MSE and Entropy?
 
-## Binary Cross Entropy(BCE) vs Multinomial Cross Entropy(MCE)
+## Binary Cross Entropy(BCE) vs Multinomial Cross Entropy(MCE)  
+https://drive.google.com/file/d/1dN55KCCuB1MWsLBSqdX31cRjWojMpqsG/view
 
 ## Calculating loss against OH vectors vs Probability distribution
 
