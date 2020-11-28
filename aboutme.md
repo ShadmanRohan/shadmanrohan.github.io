@@ -4,7 +4,7 @@ title: About Me
 subtitle: CS Undergrad(pending thesis) | Former AOC Gamer
 ---
 
-I am currently pursuing undergrad in Computer Science and Engineering at North South University. I have some knowledge on Software Development and Machine Learning. Call me Rohan. Preferred pronoun is 'he'.
+Hi, I'm Shadman Rohan. I am currently pursuing undergrad in Computer Science and Engineering at North South University. I have some knowledge on Software Development and Machine Learning. Call me Rohan. Preferred pronoun is 'he'😄.
 
 ### Academic Interests
 
