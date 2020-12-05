@@ -1,3 +1,12 @@
+---
+layout: post
+title: Common statistical concepts in ML
+subtitle: These concepts form the foundations of modern ML
+tags: [statistics]
+comments: true
+---
+
+
 Some important statistical concepts that frequently show up in ML.
 
 1. Know what a p-value is and its limitations in decisions.
