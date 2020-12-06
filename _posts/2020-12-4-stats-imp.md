@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Common statistical concepts in ML
-subtitle: These concepts form the foundations of modern ML
+title: Statistical foundations of modern ML
+subtitle: These concepts frequently shows up everywhere
 tags: [statistics]
 comments: true
 ---
 
-
-Some important statistical concepts that frequently show up in ML.
-
+These are some of the must know stats for ML practitioners:
 1. Know what a p-value is and its limitations in decisions.
 2. Linear regression and its assumptions.
 3. When to use different statistical distributions.
