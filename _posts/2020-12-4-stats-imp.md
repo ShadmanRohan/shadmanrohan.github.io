@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Statistical foundations of modern ML
-subtitle: These concepts frequently shows up everywhere
 tags: [statistics]
 comments: true
 ---
 
-These are some of the must know stats for ML practitioners:
+Must know stats for ML practitioners:
 1. Know what a p-value is and its limitations in decisions.
 2. Linear regression and its assumptions.
 3. When to use different statistical distributions.
