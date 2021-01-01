@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Early stumbles
-subtitle: Lessons Learnt
+title: Early stumbles & Lessons Learnt
 tags: [rambling]
 ---
 
