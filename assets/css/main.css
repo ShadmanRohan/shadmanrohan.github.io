@@ -626,7 +626,7 @@ text-align:justify;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -671,7 +671,7 @@ text-align:justify;
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
