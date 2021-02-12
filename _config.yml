@@ -13,10 +13,11 @@ author: Shadman Rohan
 
 navbar-links:
   Blog: "https://shadmanrohan.github.io/"
+  Projects: "projects"
+
   About:
     - About Me: "aboutme"
     - Resume:
-  Projects: "projects"
   Resources:
     - Tags: "tags"
     - Notes: ""
