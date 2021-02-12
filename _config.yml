@@ -17,7 +17,7 @@ navbar-links:
 
   About:
     - About Me: "aboutme"
-    - Resume:
+    - Resume: "https://arxiv.org/pdf/1706.03762.pdf"
   Resources:
     - Tags: "tags"
     - Notes: ""
